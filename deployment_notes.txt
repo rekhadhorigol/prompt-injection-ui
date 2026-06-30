@@ -1,15 +1,47 @@
+Project Deployment Summary
+
+Frontend
+
+* React
+* Vite
+* TailwindCSS
+* Hosted on Vercel
+
+Backend
+
+* Flask API
+* Hosted on Hugging Face Spaces (Docker)
+
+Machine Learning Models
+
+* XLM-RoBERTa (Multilingual Attack Classifier)
+* SentenceTransformer (all-MiniLM-L6-v2)
+
+Semantic Retrieval
+
+* FAISS Vector Database
+
+LLM Integration
+
+* Google Gemini 2.5 Flash
+
+Security Components
+
+* Prompt Sanitization
+* Rule-Based Detection
+* XLM-R Classification
+* FAISS Retrieval
+* Hybrid Risk Scoring
+* Decision Engine
+* Explainability Layer
+
+Deployment Links
+
 Frontend:
-React + Vite
+https://prompt-injection-ui.vercel.app
 
-Backend:
-Flask
+Backend API:
+Available through the deployed frontend.
 
-Model:
-XLM-R
-
-Vector DB:
-FAISS
-
-Deployment:
-Frontend → Vercel
-Backend → Render/Railway
+Status:
+Successfully deployed and publicly accessible.
