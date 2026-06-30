@@ -1,0 +1,15 @@
+Frontend:
+React + Vite
+
+Backend:
+Flask
+
+Model:
+XLM-R
+
+Vector DB:
+FAISS
+
+Deployment:
+Frontend → Vercel
+Backend → Render/Railway

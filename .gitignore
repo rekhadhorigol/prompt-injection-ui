@@ -1,0 +1,17 @@
+**pycache**/
+*.pyc
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+models/
+faiss/*.index
+
+.env
+
+node_modules/
+
+dist/
+build/
