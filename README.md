@@ -7,6 +7,9 @@ CH Yashwitha
 
 Karanam Srujana
 
+## Live link
+https://prompt-injection-ui.vercel.app
+
 ## Overview
 
 This project presents a multilingual security framework for detecting and preventing Prompt Injection and Jailbreak attacks in Large Language Models (LLMs).
