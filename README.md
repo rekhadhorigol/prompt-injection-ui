@@ -222,7 +222,17 @@ PI_JB_Project/
 ```
 
 ---
-
+## Local running
+Backend:
+```text
+python api.py
+```
+Frontend:
+```text
+cd ui
+npm run dev
+```
+---
 ## Deployment
 
 ### Frontend
