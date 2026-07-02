@@ -130,9 +130,9 @@ Target LLM (Gemini)
 | Accuracy                     | 93.71% |
 | Detection Success Rate (DSR) | 99.46% |
 | Attack Success Rate (ASR)    | 0.54%  |
-| Precision                    | High   |
-| Recall                       | High   |
-| F1 Score                     | High   |
+| Precision                    | 93.55% |
+| Recall                       | 93.71% |
+| F1 Score                     | 0.92   |
 
 The hybrid architecture consistently outperformed standalone detection approaches.
 
